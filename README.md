@@ -1,0 +1,2 @@
+# Dispersion
+Multithread cellular automata
